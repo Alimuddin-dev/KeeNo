@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228530752959",
+    "project_id": "keeno-35a30",
+    "storage_bucket": "keeno-35a30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228530752959:android:71cdeb46e71b985417e50a",
+        "android_client_info": {
+          "package_name": "com.example.keeno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228530752959-mpcop3640o2462ovk7pfdu1g9vu592j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKJ_vNcz0_lM7IJ5Vdo1O4ZTxrW1_bc3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228530752959-mpcop3640o2462ovk7pfdu1g9vu592j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
